@@ -2,7 +2,7 @@
 
 > **One Platform. Every Language.**
 
-OmniCompile is a modern web-based multi-language compiler and online IDE that allows users to write, compile, execute, and manage programs written in multiple programming languages from a single platform.
+InnovaHorizon is a modern web-based multi-language compiler and online IDE that allows users to write, compile, execute, and manage programs written in multiple programming languages from a single platform.
 
 The goal of this project is to provide a fast, secure, scalable, and user-friendly development environment for students, developers, and programming enthusiasts.
 
