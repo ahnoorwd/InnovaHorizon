@@ -397,8 +397,8 @@ This project is licensed under the **MIT License**.
 
 ### Developed By
 
-- Your Name
-- Team Members
+- InnovaHorizon
+- Alamin Rahat Noor
 
 ---
 
